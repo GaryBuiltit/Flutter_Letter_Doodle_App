@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.letter_doodle">
+    package="com.alford_digital.letter_doodle">
    <application
-        android:label="letter_doodle"
+        android:label="Letter Doodle"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
