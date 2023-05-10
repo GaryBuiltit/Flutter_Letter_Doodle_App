@@ -14,8 +14,8 @@ App for kids to trace and learn letters of the alphabet.
 
 ### Screenshot
 
-![](./images/letter%20doodle%20mock%201.jpeg)
-![](./images/letter%20doodle%20mock%203.jpeg)
+<img src="./images/letter%20doodle%20mock%203.jpeg" height="500" width="250">
+<img src="./images/letter%20doodle%20mock%201.jpeg" height="500" width="250">
 
 ### Links
 
