@@ -1,7 +1,32 @@
+# Letter Doodle For Kids
 
-kids letter learning app
+## Table of contents
 
+- [Overview](#overview)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
+## Overview
 
-https://user-images.githubusercontent.com/88361423/226922069-7f4d67d4-35e9-4874-9009-26efb8cbb94f.mp4
+App for kids to trace and learn letters of the alphabet.
 
+### Screenshot
+
+![](./images/Kids%20Letter%20Doodle%20App%20demo.mp4)
+
+### Links
+
+- Live Google App: [Google App]()
+
+### Built with
+
+- [provider: ^6.0.5]()
+- [flutter_colorpicker: ^1.0.3]()
+- Custom Paitner
+
+## Author
+
+- Website - [Coming Soon]()
+- Twitter - [@GaryAThe2nd](https://www.twitter.com/GaryAThe2nd)
